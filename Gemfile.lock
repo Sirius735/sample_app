@@ -125,6 +125,7 @@ PLATFORMS
 DEPENDENCIES
   annotate
   coffee-rails (~> 3.2.1)
+  execjs
   jquery-rails
   rails
   rspec-rails
