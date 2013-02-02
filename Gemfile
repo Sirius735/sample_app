@@ -6,6 +6,7 @@ gem 'rails'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
+gem 'gravatar_image_tag'
 gem 'execjs'
 
 group :development do
@@ -16,6 +17,7 @@ end
 group :test do
   gem 'rspec-rails'
   gem 'webrat'
+  gem 'factory_girl_rails'
 end
 
 
